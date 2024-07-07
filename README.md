@@ -55,7 +55,8 @@
 
 ## 📊 My GitHub Statistics
 
-![Dhruv Mehta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvmehta1311&show_icons=true&theme=radical)
+![Dhruv Mehta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvmehta1311&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmehta1311&layout=compact&theme=radical)
 
