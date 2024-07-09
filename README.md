@@ -60,7 +60,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmehta1311&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvmehta1311&theme=dark)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DhruvMehta1311&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 
 ### 📫 Contact Me
 
