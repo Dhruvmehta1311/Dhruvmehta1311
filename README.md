@@ -29,7 +29,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://skill-icons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="[https://skill-icons.dev/icons?i=tailwindcss](https://camo.githubusercontent.com/8e0ea9c26cfb8ca39b5ea1e808bb34c7711f1cca03f7fedc071c80c14bc21d76/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64637373)" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="Vuetify" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material-UI" width="40" height="40"/>
