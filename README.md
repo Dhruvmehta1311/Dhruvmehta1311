@@ -53,15 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
-## 📊 My GitHub Statistics
-
-![Dhruv Mehta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvmehta1311&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmehta1311&layout=compact&theme=radical)
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DhruvMehta1311&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
-
 ### 📫 Contact Me
 
 - **Instagram:** [Dhruvmehta00](https://www.instagram.com/Dhruvmehta00)
