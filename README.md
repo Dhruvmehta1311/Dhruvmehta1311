@@ -60,7 +60,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhruvmehta1311&color=blueviolet)
 
-- **Buy Me A Coffee** - [https://buymeacoffee.com/dhruvmehta]
+- **Buy Me A Coffee** - https://buymeacoffee.com/dhruvmehta
 <!---
 Dhruvmehta1311/Dhruvmehta1311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
