@@ -55,8 +55,7 @@
 
 ### 📫 Contact Me
 
-- **Instagram:** [Dhruvmehta00](https://www.instagram.com/Dhruvmehta00)
-- **Phone:** +91 7082811971
+- **Instagram:** [Dhruvmehta00](https://www.instagram.com/Dhruvmehta00
 - **Buy Me A Coffee** - https://buymeacoffee.com/dhruvmehta
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhruvmehta1311&color=blueviolet)
